@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "C major documentation"
+description: "C major documentation."
 permalink: /
 ---
 
@@ -59,6 +59,18 @@ Cmajor has been designed from the outset to fit into a WASM/WebAssembly stack, a
 Tracktion Waveform will be the first DAW to support native loading of patches, but we hope others will follow soon!
 
 A DAW with native support for Cmajor will offer a better experience of scanning for patches, and can do a better job of presenting and hot-reloading them. Our Cmajor JIT plugin can load patches into a DAW, but thanks to the VST/AU formats being designed for static plugins, there are some things it can't do, such as allowing dynamic changes to parameter lists or i/o buses.
+
+---------------------------------------------------------------------------------
+
+### Contacting us
+
+To chat about Cmajor, you can join our [discord channel](https://discord.gg/Abtc5xabcT) at [theaudioprogrammer.com](https://www.theaudioprogrammer.com/)
+
+For bugs and feature requests, you can use our [github issue tracker](https://github.com/SoundStacks/cmajor/issues).
+
+To find out about any upcoming job openings, follow us on [LinkedIn](https://www.linkedin.com/company/sound-stacks-ltd/).
+
+For business-related enquiries, email us at info@soundstacks.co.uk
 
 ---------------------------------------------------------------------------------
 
