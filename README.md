@@ -1,0 +1,2 @@
+# docs
+Cmajor documentation
